@@ -1,4 +1,4 @@
-# SEO Tool Provider Matrix
+# SEO Checklist
 
 One project is to create a SEO checklist for fictitious German based furniture Startup "Chillomania".
 There are 3 major categories namely- Technical, Content and Off page SEO
@@ -15,4 +15,7 @@ Priority Levels: The checklist is organized by priority levels (High, Medium, Lo
 Each checklist item is concise and specific, making it easy to understand and act upon. The items are actionable and cover key aspects of SEO.
 Tool/Website for Analysis: Providing links to tools or websites for analysis ensures that users have easy access to resources for implementing each checklist item. 
 
-You can view the <a href="https://docs.google.com/spreadsheets/d/12TINPkv3vvnUk_yYNwqczt2jWaBSQRHYHAxPlekD5Vs/edit?usp=sharing"> SEO Checklist
+You can view the <a href="https://docs.google.com/spreadsheets/d/12TINPkv3vvnUk_yYNwqczt2jWaBSQRHYHAxPlekD5Vs/edit?usp=sharing"> SEO Checklist </a>
+
+# Tool Provider Matrix
+You can view the Tool Provider Matrix <a href="https://docs.google.com/spreadsheets/d/1bT_wyBqeYmRHj3mJ-gSSFqfAfcWErUk3zs-2R1nuFMY/edit?usp=sharing"> here </a>
